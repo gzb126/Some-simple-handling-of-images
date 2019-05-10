@@ -5,3 +5,5 @@
 #this is my blog
 
 Untitled.mlx is MAYALAB program
+
+untitled.fig is result
